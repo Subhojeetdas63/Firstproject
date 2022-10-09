@@ -54,13 +54,13 @@ nav img{
     height: 30px;
     margin: 0px 25px;
 
-    transition: 0.5s ease;
-    cursor: pointer;
+    /* transition: 0.5s ease;
+    cursor: pointer; */
 }
 
-nav img:hover{
+/* nav img:hover{
     transform: scale(1.2);
-}
+} */
 
 
 /* .slider{
